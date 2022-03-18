@@ -1,0 +1,2 @@
+# SupermarketCashierManagementSystem
+超市收银管理系统-毕业设计
