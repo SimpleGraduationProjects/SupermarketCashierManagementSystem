@@ -154,7 +154,7 @@ $(function () {
         let formDateObj = new FormData();
 
         //添加文件对象
-        formDateObj.append('img',$('#pic')[0].files[0])
+        formDateObj.append('file',$('#pic')[0].files[0])
         //4.将对象基于ajax发送给后端
         $.ajax({
             url:'/upload_ajax',
